@@ -2,6 +2,7 @@
 * Globals
 */
 $yellow: #eeff31;
+$propName: #2cdc8b;
 
 /* Custom default button */
 .btn-secondary,
@@ -21,6 +22,7 @@ body {
 }
 .yellow { color: $yellow; }
 .class { color: #5918df; }
+.propName { color: $propName; }
 
 /*
 * Header
