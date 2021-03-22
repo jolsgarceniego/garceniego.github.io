@@ -1,6 +1,7 @@
 /*
 * Globals
 */
+$yellow: #eeff31;
 
 /* Custom default button */
 .btn-secondary,
@@ -11,10 +12,6 @@
   /* Prevent inheritance from `body` */
 }
 
-
-/*
-* Base structure
-*/
 body {
   background: #466368;
   background: -webkit-linear-gradient(#648880, #293f50);
@@ -22,6 +19,8 @@ body {
   background: linear-gradient(#648880, #293f50);
   background-attachment: fixed;
 }
+
+.class { color: #5918df }
 
 /*
 * Header
