@@ -8,6 +8,7 @@ $var: #67cdf0;
 $bracket: #da63a1;
 $dot: #767665;
 $comment: green;
+$array: #fffb6f;
 
 /* Custom default button */
 .btn-secondary,
@@ -70,6 +71,9 @@ body {
 }
 .comment {
   color: $comment;
+}
+.array {
+  color: $array;
 }
 .typewrite {
   cursor: default;
